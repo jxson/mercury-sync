@@ -1,0 +1,11 @@
+{
+  "name": "y",
+  "version": "0.0.0",
+  "description": "Experimental state syncronization with mercury",
+  "main": "sync.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "",
+  "license": "ISC"
+}
