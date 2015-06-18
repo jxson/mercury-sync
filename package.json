@@ -1,11 +1,23 @@
 {
-  "name": "y",
+  "name": "mercury-sync",
   "version": "0.0.0",
   "description": "Experimental state syncronization with mercury",
   "main": "sync.js",
   "scripts": {
     "test": "make test"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Jason Campbell <jasoncampbell@google.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxson/mercury-sync.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jxson/mercury-sync/issues"
+  },
+  "homepage": "https://github.com/jxson/mercury-sync#readme",
+  "devDependencies": {
+    "mercury": "^14.0.0",
+    "tape": "^4.0.0"
+  }
 }
